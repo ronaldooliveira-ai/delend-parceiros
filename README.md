@@ -1,0 +1,2 @@
+# delend-parceiros
+delend-parceiros
